@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjrDokRh3cfW2p0efYGUkFQyKvuEMzfDwm4WBQC8I4P5jGmf+Q5vWqnYSZJoOwbfmXmcgE4ojNLlWgtouirLTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\source\\repos\\RedditAPIlab\\RedditAPIlab\\RedditAPIlab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
